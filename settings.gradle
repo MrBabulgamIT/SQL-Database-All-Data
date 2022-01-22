@@ -1,0 +1,2 @@
+rootProject.name = "Student Information SQL Database"
+include ':app'
